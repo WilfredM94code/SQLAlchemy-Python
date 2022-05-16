@@ -13,7 +13,6 @@
 # Note: Within the containing folder of this file there was created a
 # virtual environment
 
-from ast import keyword
 import sqlalchemy
 
 engine = sqlalchemy.create_engine(
